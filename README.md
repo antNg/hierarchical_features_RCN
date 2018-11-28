@@ -7,7 +7,6 @@ Paper: A generative vision model that trains with high data efficiency and
 <br>
 Input images (.png) are rendered from SHREC 2012 3D objects files (.off). See 'sample_images' directory. <br>
 <br>
-<br>
 ### F2 features
 ![Alt text](F2_features.png)
 ### F3 features
