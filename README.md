@@ -9,7 +9,7 @@ Input images (.png) are rendered from SHREC 2012 3D objects files (.off). See 's
 <br>
 <br>
 ### F2 features
-![Alt text](sample_images/F2_features.png)
+![Alt text](F2_features.png)
 ### F3 features
-![Alt text](sample_images/F3_features.png)
+![Alt text](F3_features.png)
 
