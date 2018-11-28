@@ -13,3 +13,5 @@ Input images (.png) are rendered from SHREC 2012 3D objects files (.off). See 's
 ### F3 features
 ![Alt text](F3_features.png)
 
+Explain an image with F3 features:
+![Alt text](input_image.png)
